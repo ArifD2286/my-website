@@ -3,10 +3,10 @@
 
 My site was constructed using **HTML**, where I learnt how to use core elements.
 
-Ex:
-- using [ <h1></h1> ] for headers
-- using [ <p></p> ] for paragraphs
-- using [ <img src=""/> ] for images
+Ex: (there are no spaces between the < or > and the text/element)
+- using < h1 > for headers
+- using < p > for paragraphs
+- using < img /> for images
 
 My future websites would contain more functions and elements, so stay tuned to see whats up 👀
 
